@@ -49,7 +49,7 @@ This project builds a basic ETL pipeline to work with cryptocurrency price data.
 
 Below is a screenshot of the live dashboard built with Streamlit:
 
-![Dashboard](visualisation.jpg)
+![Dashboard](visualization.png)
 
 ## License
 
