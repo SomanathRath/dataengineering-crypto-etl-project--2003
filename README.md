@@ -11,7 +11,6 @@ A project for ETL pipeline development and crypto price analysis. This repositor
 - [Usage Guide](#usage-guide)
 - [Database Schema](#database-schema)
 - [Dashboard Preview](#dashboard-preview)
-- [License](#license)
 
 ## Project Overview
 
