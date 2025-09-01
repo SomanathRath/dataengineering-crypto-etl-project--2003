@@ -51,6 +51,4 @@ Below is a screenshot of the live dashboard built with Streamlit:
 
 ![Dashboard](visualization.png)
 
-## License
 
-This project is licensed under the MIT License—see the LICENSE file for details.
